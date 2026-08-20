@@ -1,88 +1,55 @@
-# Tejas-Upadhyay
+<h1 align="center">Hi 👋, I'm Tejas</h1>
+<h3 align="center">Software developer who ships across the stack — web, systems, and games</h3>
 
-<div align="center">
-  <a href="https://github.com/Tejas-Upadhyay">
-    <img src="https://komarev.com/robot.ico?username=Tejas-Upadhyay&style=flat" alt="Profile views" />
-  </a>
-</div>
-
-## 👋 Hi, I'm Tejas
-
-**Cybersecurity & AI Developer** · Fort Myers, FL
-Senior 2026-2027 · GPA 3.74 (5.04 weighted) · Rank 7/395
-Building hurricane relief tools, open source projects, and AI/ML experiments
-
-## 🎯 What I'm up to
-- 🔭 Currently building: AI news aggregator, cybersecurity tools, hurricane relief platform
-- 🌱 Learning: LLM prompting, threat modeling, system hardening
-- 💬 Ask me about: CTFs, red teaming, open-source security tools
-- 📫 How to reach me: https://tejasu.dpdns.org | https://kilva.dev
-- ⚡ Fun fact: I built a full-stack hurricane relief platform during high school
-
-<hr />
-
-<!-- 📊 Animated GitHub stats (SVG updates every 24h, hover for effects) -->
 <p align="center">
-  <a href="https://github.com/anuragh1997/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Upadhyay&show_icons=true&theme=radical&line_height=24&hide_title=true&count_private=true&repo=HurricaneHeroes,Kilva,ai-news-hub,LeetCode&text_color=fff&title_color=ff00ff&bg_color=1e1b4b&locale=en&show_icons=true&count_private=true&rank=0&icon_color=dd2c39&bg_color=1e1b4b&title_color=e96421&line=1&border_color=ff33aa&hide_border=false" alt="Tejas's GitHub stats" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Django;Crafting+UIs+with+React;Writing+C%2B%2B+for+performance;Making+games+in+Godot+(GDScript)" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,react,django,cpp,html,css,godot" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuragh1997/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Upadhyay&show_icons=true&theme=radical&line_height=24&hide_title=true&layout=compact&text_color=fff&title_color=ff00ff&bg_color=1e1b4b&locale=en" alt="Top Languages" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 </p>
 
-<hr />
+---
 
-<!-- 🛠️ Featured Projects -->
-## 📦 Featured Projects
+### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Tejas-Upadhyay/HurricaneHeroes">
-    <img src="https://img.shields.io/badge/HurricaneHeroes-Relief%20Platform-brightgreen?style=for-the-badge" alt="HurricaneHeroes" />
-  </a>
-  <a href="https://github.com/Tejas-Upadhyay/Kilva">
-    <img src="https://img.shields.io/badge/Kilva-Open%20Source-brightgreen?style=for-the-badge" alt="Kilva" />
-  </a>
-  <a href="https://github.com/Tejas-Upadhyay/ai-news-hub">
-    <img src="https://img.shields.io/badge/ai-news-hub-AI%20News-brightgreen?style=for-the-badge" alt="ai-news-hub" />
-  </a>
-  <a href="https://github.com/Tejas-Upadhyay/LeetCode">
-    <img src="https://img.shields.io/badge/LeetCode-Algorithms-brightgreen?style=for-the-badge" alt="LeetCode" />
-  </a>
-</div>
-
-<hr />
-
-<!-- 📫 Contact -->
-## 📫 Contact
-
-<div align="center">
-  <a href="https://linkedin.com/in/tejas-upadhyay">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/tejas_upadhyay">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://tejasu.dpdns.org">
-    <img src="https://img.shields.io/badge/Website-tejasu.dpdns.org-blue?style=for-the-badge" alt="Website" />
-  </a>
-</div>
-
-<hr />
-
-<!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/robot.ico?username=Tejas-Upadhyay&style=flat" alt="Profile views" />
-  <br />
-  Made with ❤️ by Tejas Upadhyay
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejas-Upadhyay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Upadhyay&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Upadhyay&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/Tejas-Upadhyay">
-    <img src="https://github.com/user-contributions/Tejas-Upadhyay" alt="Contribution Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Upadhyay&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tejas-Upadhyay&style=for-the-badge&color=58A6FF" alt="profile views" />
 </p>
